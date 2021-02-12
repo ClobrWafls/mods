@@ -6,6 +6,7 @@
       "is_experimental": false
     },
     "components": {
+      "minecraft:loot": "loot_tables/blocks/billbo_baggins_solidified_bacon.json",
       "minecraft:block_light_emission": 0,
       "minecraft:destroy_time": 10,
       "minecraft:explosion_resistance": 10000,
