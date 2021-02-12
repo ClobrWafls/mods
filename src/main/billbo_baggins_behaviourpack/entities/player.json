@@ -15,7 +15,7 @@
       },
       "billbo_baggins:meaty_tool": {
         "minecraft:attack": {
-          "damage": 10
+          "damage": 15
         }
       },
       "minecraft:add_bad_omen": {
