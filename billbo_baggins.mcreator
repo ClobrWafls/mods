@@ -27,12 +27,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "eglo"
+    },
+    {
+      "name": "MeatyTool",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meaty_tool"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.billbo_baggins:meaty_tool.name": "Meaty Tool",
       "item.billbo_baggins:meaty_sustenance_pellets.name": "Meaty Sustenance Pellets"
     }
   },

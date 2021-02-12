@@ -13,6 +13,11 @@
           "damage": 1
         }
       },
+      "billbo_baggins:meaty_tool": {
+        "minecraft:attack": {
+          "damage": 10
+        }
+      },
       "minecraft:add_bad_omen": {
         "minecraft:spell_effects": {
           "add_effects": [
@@ -181,6 +186,19 @@
               ]
             },
             "event": "minecraft:event_normal_player"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "billbo_baggins:meaty_tool"
+                }
+              ]
+            },
+            "event": "billbo_baggins:meaty_tool"
           }
         ]
       }
@@ -193,7 +211,16 @@
           ]
         },
         "remove": {
-          "component_groups": []
+          "component_groups": [
+            "billbo_baggins:meaty_tool"
+          ]
+        }
+      },
+      "billbo_baggins:meaty_tool": {
+        "add": {
+          "component_groups": [
+            "billbo_baggins:meaty_tool"
+          ]
         }
       },
       "minecraft:gain_bad_omen": {

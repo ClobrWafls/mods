@@ -4,6 +4,9 @@
   "texture_data": {
     "meaty_sustenance_pellets": {
       "textures": "textures/items/cooked_beef"
+    },
+    "meaty_tool": {
+      "textures": "textures/items/cooked_beef"
     }
   }
 }
