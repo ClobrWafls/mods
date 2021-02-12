@@ -2,8 +2,14 @@
   "resource_pack_name": "vanilla",
   "texture_name": "atlas.items",
   "texture_data": {
+    "meaty_sustenance_pellets": {
+      "textures": "textures/items/cooked_beef"
+    },
     "bacon": {
       "textures": "textures/items/bacon"
+    },
+    "meaty_tool": {
+      "textures": "textures/items/cooked_beef"
     }
   }
 }

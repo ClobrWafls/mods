@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "billbo_baggins:meaty_tool",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "meaty_tool",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

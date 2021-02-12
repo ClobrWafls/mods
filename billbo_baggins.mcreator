@@ -18,15 +18,48 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bacon"
+    },
+    {
+      "name": "MeatySustenancePellets",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meaty_sustenance_pellets"
+    },
+    {
+      "name": "Eglo",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eglo"
+    },
+    {
+      "name": "Boboboboboobobobobobo",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boboboboboobobobobobo"
+    },
+    {
+      "name": "MeatyTool",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meaty_tool"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "tile.billbo_baggins:solidified_bacon.name": "Solidified Bacon",
-      "item.billbo_baggins:bacon.name": "Bacon"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "billbo_baggins",
