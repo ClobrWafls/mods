@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "billbo_baggins:pigy"
+    },
+    "groups": [
+      "billbo_baggins"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:porkchop"
+      },
+      {
+        "item": "minecraft:porkchop"
+      },
+      {
+        "item": "minecraft:cobblestone"
+      },
+      {
+        "item": "minecraft:porkchop"
+      },
+      {
+        "item": "minecraft:porkchop"
+      }
+    ],
+    "result": {
+      "item": "billbo_baggins:pig",
+      "count": 1
+    }
+  }
+}

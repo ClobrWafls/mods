@@ -10,6 +10,9 @@
     },
     "meaty_tool": {
       "textures": "textures/items/cooked_beef"
+    },
+    "pig": {
+      "textures": "textures/items/new_piskel-1.png"
     }
   }
 }

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "billbo_baggins:crafting_table"
+    },
+    "groups": [
+      "billbo_baggins"
+    ],
+    "tags": [
+      "campfire"
+    ],
+    "input": {
+      "item": "billbo_baggins:pig"
+    },
+    "output": {
+      "item": "billbo_baggins:bacon"
+    }
+  }
+}

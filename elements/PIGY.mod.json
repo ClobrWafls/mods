@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.PORKCHOP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.PORKCHOP"
+      },
+      {
+        "value": "Blocks.COBBLESTONE"
+      },
+      {
+        "value": "Items.PORKCHOP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.PORKCHOP"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PIG"
+    },
+    "name": "pigy",
+    "namespace": "mod"
+  }
+}
