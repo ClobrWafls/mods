@@ -1,0 +1,52 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "billbo_baggins:boboboboboobobobobobo"
+    },
+    "groups": [
+      "billbo_baggins"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      "678"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:muttoncooked"
+      },
+      "1": {
+        "item": "minecraft:cooked_beef"
+      },
+      "2": {
+        "item": "minecraft:muttoncooked"
+      },
+      "3": {
+        "item": "minecraft:cooked_beef"
+      },
+      "4": {
+        "item": "minecraft:glass_bottle"
+      },
+      "5": {
+        "item": "minecraft:cooked_beef"
+      },
+      "6": {
+        "item": "minecraft:muttoncooked"
+      },
+      "7": {
+        "item": "minecraft:cooked_beef"
+      },
+      "8": {
+        "item": "minecraft:muttoncooked"
+      }
+    },
+    "result": {
+      "item": "billbo_baggins:meaty_sustenance_pellets",
+      "count": 1
+    }
+  }
+}

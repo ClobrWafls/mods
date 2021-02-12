@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "billbo_baggins:meaty_sustenance_pellets",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:foil": true,
+      "minecraft:max_stack_size": 64,
+      "minecraft:use_duration": 64,
+      "minecraft:food": {
+        "nutrition": 50,
+        "nutritionalValue": "supernatural",
+        "saturation_modifier": "low",
+        "can_always_eat": false,
+        "is_meat": true
+      }
+    }
+  }
+}
