@@ -69,7 +69,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.billbo_baggins:solidified_bacon.name": "Solidified Bacon"
+      "tile.billbo_baggins:solidified_bacon.name": "Solidified Bacon",
+      "item.billbo_baggins:bacon.name": "Bacon"
     }
   },
   "workspaceSettings": {
