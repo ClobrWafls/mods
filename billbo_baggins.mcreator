@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "boboboboboobobobobobo"
+    },
+    {
+      "name": "Eglo",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eglo"
     }
   ],
   "variable_elements": [],
