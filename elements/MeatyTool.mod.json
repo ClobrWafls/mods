@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "cooked_beef",
     "customModelName": "Normal",
-    "name": "Meaty Tool",
+    "name": "Meaty Sword",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
@@ -15,7 +15,7 @@
     "efficiency": 4.0,
     "attackSpeed": 1.0,
     "enchantability": 2,
-    "damageVsEntity": 10.0,
+    "damageVsEntity": 15.0,
     "usageCount": 0,
     "blocksAffected": [],
     "hasGlow": true,

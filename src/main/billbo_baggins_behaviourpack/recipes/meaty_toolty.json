@@ -11,25 +11,19 @@
       "crafting_table"
     ],
     "pattern": [
-      "012",
-      " 4 ",
-      " 7 "
+      "0",
+      "1",
+      "2"
     ],
     "key": {
       "0": {
-        "item": "billbo_baggins:bacon"
+        "item": "billbo_baggins:meaty_sustenance_pellets"
       },
       "1": {
         "item": "billbo_baggins:meaty_sustenance_pellets"
       },
       "2": {
         "item": "billbo_baggins:bacon"
-      },
-      "4": {
-        "item": "minecraft:stick"
-      },
-      "7": {
-        "item": "minecraft:stick"
       }
     },
     "result": {
