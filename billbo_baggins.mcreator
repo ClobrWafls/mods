@@ -2,15 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "SolidifiedBacon",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "solidified_bacon"
-    },
-    {
       "name": "Bacon",
       "type": "food",
       "sortid": 2,
@@ -69,7 +60,6 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.billbo_baggins:solidified_bacon.name": "Solidified Bacon",
       "item.billbo_baggins:meaty_tool.name": "Meaty Sword",
       "item.billbo_baggins:bacon.name": "Bacon",
       "item.billbo_baggins:meaty_sustenance_pellets.name": "Meaty Sustenance Pellets"

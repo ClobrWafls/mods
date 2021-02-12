@@ -3,36 +3,5 @@
   "texture_name": "atlas.terrain",
   "padding": 8,
   "num_mip_levels": 0,
-  "texture_data": {
-    "billbo_baggins_solidified_bacon_up": {
-      "textures": [
-        "textures/blocks/"
-      ]
-    },
-    "billbo_baggins_solidified_bacon_down": {
-      "textures": [
-        "textures/blocks/solidbacon"
-      ]
-    },
-    "billbo_baggins_solidified_bacon_south": {
-      "textures": [
-        "textures/blocks/"
-      ]
-    },
-    "billbo_baggins_solidified_bacon_north": {
-      "textures": [
-        "textures/blocks/"
-      ]
-    },
-    "billbo_baggins_solidified_bacon_west": {
-      "textures": [
-        "textures/blocks/"
-      ]
-    },
-    "billbo_baggins_solidified_bacon_east": {
-      "textures": [
-        "textures/blocks/"
-      ]
-    }
-  }
+  "texture_data": {}
 }
