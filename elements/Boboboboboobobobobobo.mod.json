@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.COOKED_MUTTON"
+        "value": "CUSTOM:Bacon"
       },
       {
         "value": "Items.COOKED_BEEF"
       },
       {
-        "value": "Items.COOKED_MUTTON"
+        "value": "CUSTOM:Bacon"
       },
       {
         "value": "Items.COOKED_BEEF"
@@ -28,13 +28,13 @@
         "value": "Items.COOKED_BEEF"
       },
       {
-        "value": "Items.COOKED_MUTTON"
+        "value": "CUSTOM:Bacon"
       },
       {
         "value": "Items.COOKED_BEEF"
       },
       {
-        "value": "Items.COOKED_MUTTON"
+        "value": "CUSTOM:Bacon"
       }
     ],
     "recipeReturnStack": {

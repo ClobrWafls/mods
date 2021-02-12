@@ -17,13 +17,13 @@
     ],
     "key": {
       "0": {
-        "item": "minecraft:muttoncooked"
+        "item": "billbo_baggins:bacon"
       },
       "1": {
         "item": "minecraft:cooked_beef"
       },
       "2": {
-        "item": "minecraft:muttoncooked"
+        "item": "billbo_baggins:bacon"
       },
       "3": {
         "item": "minecraft:cooked_beef"
@@ -35,13 +35,13 @@
         "item": "minecraft:cooked_beef"
       },
       "6": {
-        "item": "minecraft:muttoncooked"
+        "item": "billbo_baggins:bacon"
       },
       "7": {
         "item": "minecraft:cooked_beef"
       },
       "8": {
-        "item": "minecraft:muttoncooked"
+        "item": "billbo_baggins:bacon"
       }
     },
     "result": {
