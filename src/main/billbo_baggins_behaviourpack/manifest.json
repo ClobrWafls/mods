@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Billbo baggins",
+    "uuid": "c3d5a733-a21d-3e41-a7ce-95e702d283d8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "bbadc018-9f77-3207-998e-8f858cda8b75",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "27dcb05d-f9d9-3f3b-9c11-8e90f37177ff",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Daniel, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

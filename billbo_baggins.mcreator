@@ -1,0 +1,36 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Bobobobobobo",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bobobobobobo"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "billbo_baggins",
+    "modName": "Billbo baggins",
+    "version": "1.0.0",
+    "author": "Daniel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.16.x",
+    "modElementsPackage": "net.mcreator.billbobaggins",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

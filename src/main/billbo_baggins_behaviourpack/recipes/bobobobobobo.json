@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "billbo_baggins:bobobobobobo"
+    },
+    "groups": [
+      "billbo_baggins"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "item": "minecraft:bucket",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:fire",
+      "count": 1
+    }
+  }
+}
