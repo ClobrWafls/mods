@@ -3,5 +3,16 @@
     1,
     1,
     0
-  ]
+  ],
+  "billbo_baggins:solidified_bacon": {
+    "textures": {
+      "up": "billbo_baggins_solidified_bacon_up",
+      "down": "billbo_baggins_solidified_bacon_down",
+      "south": "billbo_baggins_solidified_bacon_south",
+      "north": "billbo_baggins_solidified_bacon_north",
+      "west": "billbo_baggins_solidified_bacon_west",
+      "east": "billbo_baggins_solidified_bacon_east"
+    },
+    "sound": "slime"
+  }
 }
