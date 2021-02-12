@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "meaty_tool"
+    },
+    {
+      "name": "MeatyToolty",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meaty_toolty"
     }
   ],
   "variable_elements": [],
