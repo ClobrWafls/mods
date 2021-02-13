@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "billbo_baggins:solid_baconing"
+    },
+    "groups": [
+      "billbo_baggins"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "billbo_baggins:bacon"
+      },
+      {
+        "item": "billbo_baggins:bacon"
+      },
+      {
+        "item": "billbo_baggins:bacon"
+      },
+      {
+        "item": "billbo_baggins:bacon"
+      },
+      {
+        "item": "billbo_baggins:bacon"
+      }
+    ],
+    "result": {
+      "item": "billbo_baggins:solid_bacon",
+      "count": 1
+    }
+  }
+}
