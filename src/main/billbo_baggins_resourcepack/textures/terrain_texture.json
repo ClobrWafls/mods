@@ -4,32 +4,32 @@
   "padding": 8,
   "num_mip_levels": 0,
   "texture_data": {
-    "billbo_baggins_solidified_bacon_up": {
+    "billbo_baggins_solid_bacon_up": {
       "textures": [
         "textures/blocks/"
       ]
     },
-    "billbo_baggins_solidified_bacon_down": {
+    "billbo_baggins_solid_bacon_down": {
       "textures": [
         "textures/blocks/solidbacon"
       ]
     },
-    "billbo_baggins_solidified_bacon_south": {
+    "billbo_baggins_solid_bacon_south": {
       "textures": [
         "textures/blocks/"
       ]
     },
-    "billbo_baggins_solidified_bacon_north": {
+    "billbo_baggins_solid_bacon_north": {
       "textures": [
         "textures/blocks/"
       ]
     },
-    "billbo_baggins_solidified_bacon_west": {
+    "billbo_baggins_solid_bacon_west": {
       "textures": [
         "textures/blocks/"
       ]
     },
-    "billbo_baggins_solidified_bacon_east": {
+    "billbo_baggins_solid_bacon_east": {
       "textures": [
         "textures/blocks/"
       ]

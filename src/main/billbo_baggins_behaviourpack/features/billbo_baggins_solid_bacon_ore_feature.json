@@ -1,0 +1,13 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "billbo_baggins:billbo_baggins_solid_bacon_ore_feature"
+    },
+    "count": 20,
+    "places_block": "billbo_baggins:solid_bacon",
+    "may_replace": [
+      "minecraft:air"
+    ]
+  }
+}
